@@ -2,8 +2,8 @@
 # Pure Binary Hello
 
 This program is written in **raw machine code** — no programming language used.
-I cannot run this as the binary does not match with the correct system, I am on Windows 11, this is written for Linux (x86, 32-bit).
-There is however a solution to run this but I do not want to spend much time and energy now, I probably will in the future.
+I cannot run this as the binary code does not match with the correct system, I am on Windows 11, this is written for Linux (x86, 32-bit).
+There is however, a solution to run this. But I do not want to do so now, I probably will though in the future.
 
 ## Binary
 

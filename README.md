@@ -2,6 +2,8 @@
 # Pure Binary Hello
 
 This program is written in **raw machine code** — no programming language used.
+I cannot run this as the binary does not match with the correct system, I am on Windows 11, this is written for Linux (x86, 32-bit).
+There is however a solution to run this but I do not want to spend much time and energy now, I probably will in the future.
 
 ## Binary
 
@@ -28,12 +30,6 @@ B8 01 00 00 00 BB 00 00 00 00 CD 80
 48 65 6C 6C 6F
 ```
 
-## How to run
-
-```bash
-chmod +x hello.bin
-./hello.bin
-```
 
 ## What it does
 
